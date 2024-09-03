@@ -1,4 +1,5 @@
 #TechNews
+
 Este projeto foi proposto para criar um portal de notícias e praticar os fundamentos estudados no módulo.
 Alguns dos fundamentos foram: 
 - Organização do projeto;
